@@ -1,3 +1,3 @@
 # PMND
 Product Management Nanodegree- Udactity
-![Alt text](URL or file path)
+![Product Management](https://github.com/dianavile/PMND/blob/main/Product%20Management.pdf)
